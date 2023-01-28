@@ -1,0 +1,16 @@
+{
+  "name": "esbuild-issue",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Debug esbuild serve 426 errors",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "esbuild": "^0.16.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
